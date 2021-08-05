@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MaterialButtonLayer
+  - MaterialText
+  - MaterialRadioButton
+  - Ground
+  - Wall
+  - Door
+  - Life
+  - Book
+  - Danger
+  - Weapon
+  - Water
+  - Projectile
+  - Fire
+  - Platform
+  - Boss
+  - BossProjectile
+  - Sword
+  - SwordProjectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2983514793
+    locked: 0
+  - name: Ground
+    uniqueID: 245625145
+    locked: 0
+  - name: Door
+    uniqueID: 2084844627
+    locked: 0
+  - name: Veg
+    uniqueID: 3490706267
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NPC
+    uniqueID: 625863863
+    locked: 0
+  - name: Enemy
+    uniqueID: 1472493935
+    locked: 0
+  - name: Player
+    uniqueID: 894458567
+    locked: 0
+  - name: Water
+    uniqueID: 1647290995
+    locked: 0

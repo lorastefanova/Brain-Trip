@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 182585b2ffbd8f641affcb7c17159613
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mouth: {instanceID: 0}
+  - projectilePrefab: {fileID: 7213847217657595524, guid: 6fbc56a6a4546654da731b7812e61b5e,
+      type: 3}
+  - enemyPrefab: {instanceID: 0}
+  - basicEnemyPrefab: {instanceID: 0}
+  - score: {instanceID: 0}
+  - playerHp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
